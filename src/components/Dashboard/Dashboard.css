@@ -1,0 +1,38 @@
+.dir-container{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}
+
+.title{
+  text-align: center;
+  font-size: 2rem;
+}
+
+.button-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+}
+
+.center{
+  height: 50vh;
+  font-size: 20px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.textarea{
+  height: 100px !important;
+  width: 100%;
+}

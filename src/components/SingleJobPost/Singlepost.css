@@ -1,0 +1,27 @@
+.single-post-container{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
+
+.single-post{
+  padding: 40px;
+  background: #FF416C;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #FF4B2B, #FF416C);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #FF4B2B, #FF416C); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  width: 500px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  
+}
+
+.post-date{
+  margin: 15px 5px;
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+}

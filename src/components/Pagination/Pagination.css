@@ -1,0 +1,15 @@
+.page-btn{
+    background: #FF416C;
+    color: white;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.page-number{
+    padding: 0 10px;
+    font-size: medium;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}

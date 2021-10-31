@@ -1,0 +1,66 @@
+.imgwrap{
+  max-width: 400px;
+  height: 80%;
+}
+
+.image{
+  width:100%;
+  margin-left: 0 0 10px 0;
+  padding-right: 0
+}
+
+.about-section{
+  display: flex;
+  padding: 20px;
+}
+
+.about-col1{
+  width: 50%;
+  padding: 0 20px;
+}
+
+.about-col2{
+  width: 50%;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.about-container{
+  padding: 20px 0;
+}
+
+.companies{
+  margin-top: 20px;
+}
+
+.companies img {
+  border-radius: 50%;
+}
+
+.cimage{
+  width:75%;
+  height: 190px;
+  padding: 10px;
+}
+
+.cards{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 10px;
+  width: 25%;
+  margin: 0;
+  flex-direction: column;
+}
+
+.card-sec{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 20px;
+}
+
+.cards .title{
+  margin: 10px;
+}
