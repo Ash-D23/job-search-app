@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/job-search-app/static/css/main.63376bad.chunk.css",
+    "main.js": "/job-search-app/static/js/main.87f2f03d.chunk.js",
+    "main.js.map": "/job-search-app/static/js/main.87f2f03d.chunk.js.map",
+    "runtime-main.js": "/job-search-app/static/js/runtime-main.e683161f.js",
+    "runtime-main.js.map": "/job-search-app/static/js/runtime-main.e683161f.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/job-search-app/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.22f1601d.chunk.js": "/job-search-app/static/js/2.22f1601d.chunk.js",
+    "static/js/2.22f1601d.chunk.js.map": "/job-search-app/static/js/2.22f1601d.chunk.js.map",
+    "index.html": "/job-search-app/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/job-search-app/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.63376bad.chunk.css.map": "/job-search-app/static/css/main.63376bad.chunk.css.map",
+    "static/js/2.22f1601d.chunk.js.LICENSE.txt": "/job-search-app/static/js/2.22f1601d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e683161f.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.22f1601d.chunk.js",
+    "static/css/main.63376bad.chunk.css",
+    "static/js/main.87f2f03d.chunk.js"
+  ]
+}
